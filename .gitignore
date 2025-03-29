@@ -5,5 +5,4 @@ venv/
 .env
 *.DS_Store
 *.log
-data/
-*.csv
+data/training.1600000.processed.noemoticon.csv
