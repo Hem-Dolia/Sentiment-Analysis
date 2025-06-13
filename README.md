@@ -1,6 +1,6 @@
 # 🧠 Tweet Sentiment Analyzer
 
-A web app to analyze the sentiment of tweets using Logistic Regression and upport Vector Machines (SVM). Built using Python, Scikit-learn, NLTK, and Streamlit.
+A web app to analyze the sentiment of tweets using Logistic Regression and Support Vector Machines (SVM). Built using Python, Scikit-learn, NLTK, and Streamlit.
 
 ---
 
